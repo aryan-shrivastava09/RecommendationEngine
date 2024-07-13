@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client-master/Client-master.iml" filepath="$PROJECT_DIR$/Client-master/Client-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Recommendation Engine Prod.iml" filepath="$PROJECT_DIR$/.idea/Recommendation Engine Prod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server-master/Server-master.iml" filepath="$PROJECT_DIR$/Server-master/Server-master.iml" />
+    </modules>
+  </component>
+</project>
